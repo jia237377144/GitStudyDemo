@@ -1,3 +1,4 @@
 Hello Git
 Hello from branch test1
 Hello from branch featureA and before merge
+Hello from featureB and after the featureA to merge
