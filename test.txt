@@ -1,2 +1,6 @@
 Hello Git
 Hello from branch test1
+content from test1 and the content will be conflicts
+the content from test
+the content form branch test1,and though the stash to master
+
